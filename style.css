@@ -3,5 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "pp-neue-montreal", sans-serif;
-  background-color: blue;
+}
+
+/* Navbar */
+.navbar .navbar-nav .nav-link {
+  color: black;
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding-left: 25px;
+}
+
+.get-started-button {
+  border-radius: 20px;
 }

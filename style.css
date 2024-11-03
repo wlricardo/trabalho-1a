@@ -97,3 +97,51 @@
 }
 /* +++ End of Intro +++ */
 /* ++++++++++++++++++++ */
+
+/* +++ Partners +++ */
+.partners {
+  margin-top: 150px;
+  background-color: #131820;
+}
+
+@media (min-width: 768px) {
+  .partners {
+    margin-top: 10px;
+  }
+}
+
+.partners-logos {
+  padding-top: 80px;
+}
+
+@media (min-width: 768px) {
+  .partners-logos {
+    padding-top: 30px;
+  }
+}
+
+.partners-logos img {
+  margin: 20px 10px;
+}
+
+.partners .title,
+.partners-logos {
+  color: #eef1f2;
+  font-size: 1.8rem;
+  padding-bottom: 80px;
+  width: 90%;
+  background-color: #131820;
+  text-align: center;
+}
+
+.partners .title h3 {
+  margin-top: 150px;
+}
+
+@media (max-width: 768px) {
+  .partners .title h3 {
+    font-size: 1.3rem;
+  }
+}
+/* +++ End of Partners +++ */
+/* +++++++++++++++++++++++ */
